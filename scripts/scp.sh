@@ -1,0 +1,1 @@
+scp apple-touch-icon.png favicon.ico favicon-96x96.png favicon.svg index.html site.webmanifest web-app-manifest-192x192.png web-app-manifest-512x512.png sanyuchilas@37.128.207.107:/home/sanyuchilas/other/shortfilm-lifegrid/
